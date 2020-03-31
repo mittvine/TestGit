@@ -9,6 +9,7 @@ public class RestApiTest {
 	public void Postman()
 	{
 		System.out.println("postman");
+		System.out.println("postman2");
 	}
 	
 	@Test

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50" started-at="2020-03-23T19:28:57 IST" finished-at="2020-03-23T19:28:57 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50" started-at="2020-03-23T19:28:57 IST" finished-at="2020-03-23T19:28:57 IST">
+      <class name="qaclickacademy.RestApiTest">
+        <test-method status="PASS" signature="Postman()[pri:0, instance:qaclickacademy.RestApiTest@6c3708b3]" name="Postman" duration-ms="0" started-at="2020-03-23T19:28:57 IST" finished-at="2020-03-23T19:28:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postman -->
+        <test-method status="PASS" signature="RestAPI()[pri:0, instance:qaclickacademy.RestApiTest@6c3708b3]" name="RestAPI" duration-ms="1" started-at="2020-03-23T19:28:57 IST" finished-at="2020-03-23T19:28:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPI -->
+      </class> <!-- qaclickacademy.RestApiTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@3e9b1010]" name="BrowserAutomation" duration-ms="0" started-at="2020-03-23T19:28:57 IST" finished-at="2020-03-23T19:28:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUi()[pri:0, instance:qaclickacademy.SeleniumTest@3e9b1010]" name="ElementsUi" duration-ms="0" started-at="2020-03-23T19:28:57 IST" finished-at="2020-03-23T19:28:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUi -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+      <class name="qaclickacademy.ApiumTest">
+        <test-method status="PASS" signature="Agile()[pri:0, instance:qaclickacademy.ApiumTest@18eed359]" name="Agile" duration-ms="6" started-at="2020-03-23T19:28:57 IST" finished-at="2020-03-23T19:28:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Agile -->
+        <test-method status="PASS" signature="jira()[pri:0, instance:qaclickacademy.ApiumTest@18eed359]" name="jira" duration-ms="0" started-at="2020-03-23T19:28:57 IST" finished-at="2020-03-23T19:28:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jira -->
+      </class> <!-- qaclickacademy.ApiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
